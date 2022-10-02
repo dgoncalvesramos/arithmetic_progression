@@ -40,7 +40,7 @@ def calculate_solution(arithmetic_progression,u0,u_to_find):
 		n=int(n)
 		n+=1
 		iteration-=1
-	print(Un)	
+	print('The result is ' + str(Un))	
 	return Un
 
 def send_result(result,session):
