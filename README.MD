@@ -1,4 +1,4 @@
-# Break_captcha
+# Arithmetic_progression
 
 ## What is it ?
 
