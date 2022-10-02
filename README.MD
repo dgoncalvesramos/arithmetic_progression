@@ -7,7 +7,7 @@ A simple python script used to complete a [challenge](https://www.root-me.org/fr
 ## Running
  `python3 arithmetic_progression.py` 
 
-The project was built on python 3.You also need [Beautiful Soup] module (https://pypi.org/project/beautifulsoup4/#files). 
+The project was built on python 3.You also need [Beautiful Soup](https://pypi.org/project/beautifulsoup4/#files) module. 
 
 ## Common errors 
 
