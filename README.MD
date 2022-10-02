@@ -2,12 +2,12 @@
 
 ## What is it ?
 
-A simple python script used to complete a [challenge](https://www.root-me.org/fr/Challenges/Programmation/Suite-arithmetique) on root-me. The purpose was to calculate the nth term of an arithmetic progression in less than two 2 seconds
+A simple python script used to complete a [challenge](https://www.root-me.org/fr/Challenges/Programmation/Suite-arithmetique) on root-me. The purpose was to calculate the nth term of an arithmetic progression in less than two 2 seconds. 
 
 ## Running
  `python3 arithmetic_progression.py` 
 
-The project was built on python 3. 
+The project was built on python 3.You also need [Beautiful Soup] module (https://pypi.org/project/beautifulsoup4/#files). 
 
 ## Common errors 
 
